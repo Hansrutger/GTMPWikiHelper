@@ -1,0 +1,15 @@
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\bin\Debug\WikiHelper.exe.config
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\bin\Debug\WikiHelper.exe
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\bin\Debug\WikiHelper.pdb
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\App.g.cs
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper_MarkupCompile.cache
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper_MarkupCompile.lref
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\MainWindow.baml
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.g.resources
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.Properties.Resources.resources
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.csproj.GenerateResource.Cache
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.csproj.CoreCompileInputs.cache
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.exe
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.pdb
+C:\Users\Mikael-SMG\Documents\Visual Studio 2017\Projects\WikiHelper\WikiHelper\obj\Debug\WikiHelper.csprojResolveAssemblyReference.cache
